@@ -1,6 +1,6 @@
 # Hi there, I'm Sammy! 👋
 
-I am a 20-year-old IT student based in Aleppo, Syria, currently diving deep into the world of software development and Artificial Intelligence.
+I am a 21-year-old IT student based in Aleppo, Syria, currently diving deep into the world of software development and Artificial Intelligence.
 
 ### 🚀 About Me
 - 🎓 **Education:** Currently studying Information Technology.
