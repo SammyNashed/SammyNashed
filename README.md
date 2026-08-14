@@ -133,12 +133,12 @@ Tooling, browser experiments and Android work in various states of finished.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SammyNashed&theme=github_dark" width="100%" alt="Repositories per language for SammyNashed">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SammyNashed&theme=aura" width="100%" alt="Repositories per language for SammyNashed">
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SammyNashed&theme=github_dark&utcOffset=3" width="100%" alt="Commit activity by hour of day for SammyNashed">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SammyNashed&theme=aura&utcOffset=3" width="100%" alt="Commit activity by hour of day for SammyNashed">
 
 </td>
 </tr>
