@@ -138,7 +138,7 @@ Tooling, browser experiments and Android work in various states of finished.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SammyNashed&theme=github_dark" width="100%" alt="Most committed languages for SammyNashed">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SammyNashed&theme=github_dark&utcOffset=3" width="100%" alt="Commit activity by hour of day for SammyNashed">
 
 </td>
 </tr>
