@@ -16,9 +16,9 @@ Aleppo, Syria &nbsp;·&nbsp; UTC+03:00
 </td>
 <td width="54%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SammyNashed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=480&bg_color=0d1117&text_color=8b949e&icon_color=c084fc&ring_color=a78bfa&title_color=a78bfa" width="100%" alt="GitHub stats: stars, commits, pull requests, issues and contributions for SammyNashed">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SammyNashed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=470&bg_color=0d1117&text_color=8b949e&icon_color=c084fc&ring_color=a78bfa&title_color=a78bfa" width="100%" alt="GitHub stats: stars, commits, pull requests, issues and contributions for SammyNashed">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SammyNashed&layout=compact&langs_count=6&hide_border=true&card_width=480&bg_color=0d1117&text_color=8b949e&title_color=a78bfa" width="100%" alt="Most used languages: Kotlin, PowerShell, Java, Python">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=SammyNashed&layout=compact&langs_count=6&hide_border=true&card_width=470&bg_color=0d1117&text_color=8b949e&title_color=a78bfa" width="100%" alt="Most used languages: Kotlin, PowerShell, Java, Python">
 
 <img src="https://streak-stats.demolab.com?user=SammyNashed&hide_border=true&background=0d1117&stroke=21262d&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9" width="100%" alt="Contribution streak">
 
@@ -127,8 +127,21 @@ Tooling, browser experiments and Android work in various states of finished.
 
 <br>
 
-### Activity
+### Statistics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SammyNashed&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ec4899&area=true&area_color=7c3aed&hide_border=true&custom_title=Contributions" width="100%" alt="Contribution activity graph for SammyNashed">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>Cards are generated at request time — the numbers above are always current.</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SammyNashed&theme=github_dark" width="100%" alt="Repositories per language for SammyNashed">
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SammyNashed&theme=github_dark" width="100%" alt="Most committed languages for SammyNashed">
+
+</td>
+</tr>
+</table>
+
+<sub>Every card above is generated on request — the numbers stay current on their own.</sub>
