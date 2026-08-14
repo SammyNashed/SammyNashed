@@ -1,25 +1,134 @@
-# Hi there, I'm Sammy! 👋
+<table>
+<tr>
+<td width="46%" valign="top">
 
-I am a 21-year-old IT student based in Aleppo, Syria, currently diving deep into the world of software development and Artificial Intelligence.
+<img src="assets/sammy-ascii.svg" width="100%" alt="ASCII rendering of Sammy's nebula S emblem">
 
-### 🚀 About Me
-- 🎓 **Education:** Currently studying Information Technology.
-- 🎯 **Career Goal:** Aspiring AI Developer.
-- 💻 **Tech Stack:** I enjoy working with **Java**, **C++**, and **Python**.
-- 🛠️ **Current Setup:** Exploring local LLMs (like Llama 3.1) using Ollama.
-- ⚡ **Fun Fact:** I'm a big fan of lightweight tools and efficient workflows.
+### Sammy &nbsp;<sub><sup>`@SammyNashed`</sup></sub>
 
-### 🛠️ Languages and Tools
-- **Languages:** Java, C++, Python, SQL
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures
-- **AI/ML:** Local Model Implementation, Prompt Engineering
+**Android &amp; systems developer** — Kotlin, Jetpack Compose, local LLMs.<br>
+Aleppo, Syria &nbsp;·&nbsp; UTC+03:00
 
-### 📈 Current Projects
-- 🔭 I’m currently working on an AI-outfit app for local stores in Aleppo, Syria!
+<a href="https://github.com/SammyNashed?tab=repositories">Repositories</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/sammy-nashed-480aaa318/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:nashedsammy@gmail.com">Email</a>
 
-### 📫 How to reach me:
-- [[LinkedIn]](https://www.linkedin.com/in/sammy-nashed-480aaa318/)
-- [[Email]](nashedsammy@gmail.com)
+</td>
+<td width="54%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SammyNashed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=480&bg_color=0d1117&text_color=8b949e&icon_color=c084fc&ring_color=a78bfa&title_color=a78bfa" width="100%" alt="GitHub stats: stars, commits, pull requests, issues and contributions for SammyNashed">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SammyNashed&layout=compact&langs_count=6&hide_border=true&card_width=480&bg_color=0d1117&text_color=8b949e&title_color=a78bfa" width="100%" alt="Most used languages: Kotlin, PowerShell, Java, Python">
+
+<img src="https://streak-stats.demolab.com?user=SammyNashed&hide_border=true&background=0d1117&stroke=21262d&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9" width="100%" alt="Contribution streak">
+
+</td>
+</tr>
+</table>
 
 ---
-*"The best way to predict the future is to invent it."*
+
+### About
+
+IT student building software that ships as an actual product, not a demo.
+Most of my time goes into Android — Kotlin and Jetpack Compose, offline-first,
+no ads, no telemetry — and into Windows tooling that removes friction from my
+own workflow. Currently working through local model inference (Llama 3.1 via
+Ollama) and how to make prompt-driven features behave deterministically enough
+to ship.
+
+Comfortable in the parts that are not fun: state modelling, persistence,
+packaging, and making a build reproducible on someone else's machine.
+
+<br>
+
+### Currently building
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+#### [Emran](https://github.com/SammyNashed/Emran) &nbsp;<sub>Kotlin · Jetpack Compose</sub>
+
+A private, offline-first Islamic prayer and **Qada** tracker for Android.
+Glassmorphic UI, habit mechanics with recovery targets and milestone resets,
+and a persistence layer that keeps years of history local to the device.
+Distributed as a signed APK through Releases.
+
+</td>
+<td width="40%" valign="top">
+
+**Focus right now**
+
+- Qada recovery engine &amp; milestone resets
+- Compose motion / state restoration
+- Release pipeline and APK signing
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Tech
+
+![Kotlin](https://img.shields.io/badge/Kotlin-1e1b4b?style=flat-square&logo=kotlin&logoColor=c084fc)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1e1b4b?style=flat-square&logo=jetpackcompose&logoColor=c084fc)
+![Android](https://img.shields.io/badge/Android-1e1b4b?style=flat-square&logo=android&logoColor=c084fc)
+![Java](https://img.shields.io/badge/Java-1e1b4b?style=flat-square&logo=openjdk&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=c084fc)
+![C++](https://img.shields.io/badge/C%2B%2B-1e1b4b?style=flat-square&logo=cplusplus&logoColor=c084fc)
+![SQL](https://img.shields.io/badge/SQL-1e1b4b?style=flat-square&logo=postgresql&logoColor=c084fc)
+![PowerShell](https://img.shields.io/badge/PowerShell-1e1b4b?style=flat-square&logo=powershell&logoColor=c084fc)
+![Ollama](https://img.shields.io/badge/Ollama-1e1b4b?style=flat-square&logo=ollama&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=c084fc)
+
+<br>
+
+### Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Emran](https://github.com/SammyNashed/Emran)** &nbsp;<sub>`Kotlin`</sub>
+
+Offline-first prayer and Qada tracker for Android. Compose UI, local
+persistence, habit-recovery mechanics, shipped as an installable APK.
+
+</td>
+<td width="50%" valign="top">
+
+**[zen-pwa-automator](https://github.com/SammyNashed/zen-pwa-automator)** &nbsp;<sub>`PowerShell`</sub>
+
+Unlocks native PWA support in Zen Browser: unattended background install,
+smart link routing and borderless window management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Trichyguard-AI](https://github.com/SammyNashed/Trichyguard-AI)** &nbsp;<sub>`in progress`</sub>
+
+Applied-ML experiment around local inference — early, moving slowly and
+deliberately.
+
+</td>
+<td width="50%" valign="top">
+
+**[All repositories →](https://github.com/SammyNashed?tab=repositories)**
+
+Tooling, browser experiments and Android work in various states of finished.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SammyNashed&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ec4899&area=true&area_color=7c3aed&hide_border=true&custom_title=Contributions" width="100%" alt="Contribution activity graph for SammyNashed">
+
+<sub>Cards are generated at request time — the numbers above are always current.</sub>
