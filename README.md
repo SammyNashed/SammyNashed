@@ -13,6 +13,10 @@ Aleppo, Syria &nbsp;·&nbsp; UTC+03:00
 <a href="https://www.linkedin.com/in/sammy-nashed-480aaa318/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:nashedsammy@gmail.com">Email</a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SammyNashed&color=a78bfa&style=flat-square&label=profile+views" alt="Profile view count">
+
 </td>
 <td width="54%" valign="top">
 
@@ -125,23 +129,4 @@ Tooling, browser experiments and Android work in various states of finished.
 </tr>
 </table>
 
-<br>
-
-### Statistics
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SammyNashed&theme=aura" width="100%" alt="Repositories per language for SammyNashed">
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SammyNashed&theme=aura&utcOffset=3" width="100%" alt="Commit activity by hour of day for SammyNashed">
-
-</td>
-</tr>
-</table>
-
-<sub>Every card above is generated on request — the numbers stay current on their own.</sub>
+<sub>Cards above are generated on request — the numbers stay current on their own.</sub>
