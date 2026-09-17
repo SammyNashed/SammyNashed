@@ -1,28 +1,25 @@
 <table>
 <tr>
-<td width="46%" valign="top">
+<td width="44%" valign="top">
 
 <img src="assets/sammy-ascii.svg" width="100%" alt="ASCII rendering of Sammy's nebula S emblem">
 
 ### Sammy &nbsp;<sub><sup>`@SammyNashed`</sup></sub>
 
-**Android &amp; systems developer** — Kotlin, Jetpack Compose, local LLMs.<br>
+**Software developer.** I pick the language and the platform
+per problem, then ship the thing.<br>
 Aleppo, Syria &nbsp;·&nbsp; UTC+03:00
 
 <a href="https://github.com/SammyNashed?tab=repositories">Repositories</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/sammy-nashed-480aaa318/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:nashedsammy@gmail.com">Email</a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SammyNashed&color=a78bfa&style=flat-square&label=profile+views" alt="Profile view count">
-
 </td>
-<td width="54%" valign="top">
+<td width="56%" valign="top">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SammyNashed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=470&bg_color=0d1117&text_color=8b949e&icon_color=c084fc&ring_color=a78bfa&title_color=a78bfa" width="100%" alt="GitHub stats: stars, commits, pull requests, issues and contributions for SammyNashed">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=SammyNashed&layout=compact&langs_count=6&hide_border=true&card_width=470&bg_color=0d1117&text_color=8b949e&title_color=a78bfa" width="100%" alt="Most used languages: Kotlin, PowerShell, Java, Python">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=SammyNashed&layout=compact&langs_count=6&hide_border=true&card_width=470&bg_color=0d1117&text_color=8b949e&title_color=a78bfa" width="100%" alt="Most used languages across SammyNashed's repositories">
 
 <img src="https://streak-stats.demolab.com?user=SammyNashed&hide_border=true&background=0d1117&stroke=21262d&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=8b949e&dates=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9" width="100%" alt="Contribution streak">
 
@@ -34,99 +31,114 @@ Aleppo, Syria &nbsp;·&nbsp; UTC+03:00
 
 ### About
 
-IT student building software that ships as an actual product, not a demo.
-Most of my time goes into Android — Kotlin and Jetpack Compose, offline-first,
-no ads, no telemetry — and into Windows tooling that removes friction from my
-own workflow. Currently working through local model inference (Llama 3.1 via
-Ollama) and how to make prompt-driven features behave deterministically enough
-to ship.
+IT student. I started on Android in Kotlin, and that turned out to be the
+starting point rather than the specialty — these days the work runs across
+Linux desktop tooling, native GTK4 and Electron apps, on-device machine
+learning, a Minecraft mod, and a bootloader theme. What stays constant is
+that I'd rather finish something installable than leave a demo behind.
 
-Comfortable in the parts that are not fun: state modelling, persistence,
-packaging, and making a build reproducible on someone else's machine.
+Most of what's here started as a problem I had myself, which is also why the
+projects tend to be offline-first: no accounts, no telemetry, nothing that
+needs a server to keep working.
+
+I'm comfortable in the unglamorous parts — state modelling, persistence,
+packaging, and getting a build to behave the same on someone else's machine.
 
 <br>
 
-### Currently building
+### Projects
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-#### [Emran](https://github.com/SammyNashed/Emran) &nbsp;<sub>Kotlin · Jetpack Compose</sub>
+#### [RATL](https://github.com/SammyNashed/ratl) &nbsp;<sub>`Python`</sub>
 
-A private, offline-first Islamic prayer and **Qada** tracker for Android.
-Glassmorphic UI, habit mechanics with recovery targets and milestone resets,
-and a persistence layer that keeps years of history local to the device.
-Distributed as a signed APK through Releases.
+An on-device Quran recitation assessment engine, shipped as an SDK rather
+than an app. Given a target passage and a recording, it returns a per-word
+status with timings and a confidence score — no cloud inference, no API keys.
+It abstains instead of guessing: the thresholds were selected against a
+false-reject budget, and where the evidence didn't support a verdict, V1
+reports `UNCERTAIN` rather than accusing a reciter wrongly.
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-**Focus right now**
+#### [Trichyguard](https://github.com/SammyNashed/Trichyguard-AI) &nbsp;<sub>`JavaScript · MediaPipe`</sub>
 
-- Qada recovery engine &amp; milestone resets
-- Compose motion / state restoration
-- Release pipeline and APK signing
+A hand-tracking guard against hair-pulling, built for a habit I have myself.
+The webcam feed and the model both stay on the machine; when your hand lingers
+near your hair, the screen locks, and it lifts once the hand is away. Runs in
+the browser or as a native background app. Earlier versions had streaks, stats
+and a journal — all of it got removed, because an app like this shouldn't ask
+for attention.
+
+<a href="https://sammynashed.github.io/Trichyguard-AI/">Try it in the browser →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Rota](https://github.com/SammyNashed/rota) &nbsp;<sub>`Python · GTK4`</sub>
+
+A radial launcher for Hyprland: hold the middle mouse button on the desktop,
+flick toward what you want, release. A Wayland reimplementation of Rovyl,
+built on layer-shell with a global evdev grab so the gesture works anywhere.
+
+</td>
+<td width="50%" valign="top">
+
+#### [Paradox](https://github.com/SammyNashed/paradox) &nbsp;<sub>`Java · Fabric`</sub>
+
+A hardcore Minecraft mod that suspends death. Instead of the world ending, you
+get sixty seconds as a spirit to go back and undo whatever killed you. Fabric,
+Minecraft 26.2.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Choose Your Fate](https://github.com/SammyNashed/refind-choose-your-fate) &nbsp;<sub>`rEFInd theme`</sub>
+
+A boot menu that offers your operating systems as the red and the blue pill,
+rendered in neofetch-style ASCII art. Generated, so it adapts to whatever
+you actually have installed.
+
+</td>
+<td width="50%" valign="top">
+
+#### [Emran](https://github.com/SammyNashed/Emran) &nbsp;<sub>`Kotlin · Jetpack Compose`</sub>
+
+Where I started. An offline-first Islamic prayer and Qada tracker for Android
+— glassmorphic UI, habit mechanics with recovery targets and milestone resets,
+years of history kept local to the device. Shipped as a signed APK through
+Releases.
 
 </td>
 </tr>
 </table>
+
+<sub><a href="https://github.com/SammyNashed?tab=repositories">All repositories →</a></sub>
 
 <br>
 
 ### Tech
 
-![Kotlin](https://img.shields.io/badge/Kotlin-1e1b4b?style=flat-square&logo=kotlin&logoColor=c084fc)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1e1b4b?style=flat-square&logo=jetpackcompose&logoColor=c084fc)
-![Android](https://img.shields.io/badge/Android-1e1b4b?style=flat-square&logo=android&logoColor=c084fc)
-![Java](https://img.shields.io/badge/Java-1e1b4b?style=flat-square&logo=openjdk&logoColor=c084fc)
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=c084fc)
+![Kotlin](https://img.shields.io/badge/Kotlin-1e1b4b?style=flat-square&logo=kotlin&logoColor=c084fc)
+![Java](https://img.shields.io/badge/Java-1e1b4b?style=flat-square&logo=openjdk&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=flat-square&logo=javascript&logoColor=c084fc)
 ![C++](https://img.shields.io/badge/C%2B%2B-1e1b4b?style=flat-square&logo=cplusplus&logoColor=c084fc)
 ![SQL](https://img.shields.io/badge/SQL-1e1b4b?style=flat-square&logo=postgresql&logoColor=c084fc)
-![PowerShell](https://img.shields.io/badge/PowerShell-1e1b4b?style=flat-square&logo=powershell&logoColor=c084fc)
-![Ollama](https://img.shields.io/badge/Ollama-1e1b4b?style=flat-square&logo=ollama&logoColor=c084fc)
+
+![GTK4](https://img.shields.io/badge/GTK4-1e1b4b?style=flat-square&logo=gtk&logoColor=c084fc)
+![Electron](https://img.shields.io/badge/Electron-1e1b4b?style=flat-square&logo=electron&logoColor=c084fc)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1e1b4b?style=flat-square&logo=jetpackcompose&logoColor=c084fc)
+![Linux](https://img.shields.io/badge/Arch%20Linux-1e1b4b?style=flat-square&logo=archlinux&logoColor=c084fc)
 ![Git](https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=c084fc)
 
 <br>
 
-### Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Emran](https://github.com/SammyNashed/Emran)** &nbsp;<sub>`Kotlin`</sub>
-
-Offline-first prayer and Qada tracker for Android. Compose UI, local
-persistence, habit-recovery mechanics, shipped as an installable APK.
-
-</td>
-<td width="50%" valign="top">
-
-**[zen-pwa-automator](https://github.com/SammyNashed/zen-pwa-automator)** &nbsp;<sub>`PowerShell`</sub>
-
-Unlocks native PWA support in Zen Browser: unattended background install,
-smart link routing and borderless window management.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Trichyguard-AI](https://github.com/SammyNashed/Trichyguard-AI)** &nbsp;<sub>`in progress`</sub>
-
-Applied-ML experiment around local inference — early, moving slowly and
-deliberately.
-
-</td>
-<td width="50%" valign="top">
-
-**[All repositories →](https://github.com/SammyNashed?tab=repositories)**
-
-Tooling, browser experiments and Android work in various states of finished.
-
-</td>
-</tr>
-</table>
-
-<sub>Cards above are generated on request — the numbers stay current on their own.</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SammyNashed&theme=aura" width="100%" alt="Profile summary: commits, language distribution and contribution history">
