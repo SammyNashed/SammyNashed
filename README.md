@@ -10,8 +10,9 @@
 per problem, then ship the thing.<br>
 Aleppo, Syria &nbsp;·&nbsp; UTC+03:00
 
-<a href="https://github.com/SammyNashed?tab=repositories">Repositories</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/sammy-nashed-480aaa318/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="#featured">Featured</a> &nbsp;·&nbsp;
+<a href="#everything-ive-built">All projects</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/sammy-nashed">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:nashedsammy@gmail.com">Email</a>
 
 </td>
@@ -46,20 +47,23 @@ packaging, and getting a build to behave the same on someone else's machine.
 
 <br>
 
-### Projects
+### Featured
+
+<sub>📌 The six pinned on my profile. Everything else is in the <a href="#everything-ive-built">full list</a> below.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [RATL](https://github.com/SammyNashed/ratl) &nbsp;<sub>`Python`</sub>
+#### [RATL](https://github.com/SammyNashed/ratl) &nbsp;<sub>`Kotlin · ONNX Runtime`</sub>
 
 An on-device Quran recitation assessment engine, shipped as an SDK rather
 than an app. Given a target passage and a recording, it returns a per-word
 status with timings and a confidence score — no cloud inference, no API keys.
-It abstains instead of guessing: the thresholds were selected against a
-false-reject budget, and where the evidence didn't support a verdict, V1
-reports `UNCERTAIN` rather than accusing a reciter wrongly.
+It abstains instead of guessing: where the evidence doesn't support a verdict,
+it reports `UNCERTAIN` rather than accusing a reciter wrongly.
+
+Submitted to Itqan's *Code Serves the Quran* campaign. &nbsp;<a href="https://github.com/SammyNashed/ratl/issues">10 open issues →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +124,35 @@ Releases.
 </tr>
 </table>
 
-<sub><a href="https://github.com/SammyNashed?tab=repositories">All repositories →</a></sub>
+<br>
+
+### Everything I've built
+
+<sub>Every public project, grouped by what it's for. ▶ means you can try it in the browser right now.</sub>
+
+| | Project | What it is | Stack |
+|:-:|---|---|---|
+| | **Quran & faith** | | |
+| 📌 | [RATL](https://github.com/SammyNashed/ratl) | On-device Quran recitation checker, as an SDK for other apps | Kotlin · ONNX |
+| 📌 | [Emran](https://github.com/SammyNashed/Emran) | Offline prayer and Qada tracker for Android | Kotlin · Compose |
+| | **Wellbeing** | | |
+| 📌 | [Trichyguard](https://github.com/SammyNashed/Trichyguard-AI) &nbsp;[▶](https://sammynashed.github.io/Trichyguard-AI/) | Hand-tracking guard against hair-pulling; nothing leaves your machine | JavaScript · MediaPipe |
+| | **Linux desktop** | | |
+| 📌 | [Rota](https://github.com/SammyNashed/rota) | Radial launcher for Hyprland: hold, flick, release | Python · GTK4 |
+| 📌 | [Choose Your Fate](https://github.com/SammyNashed/refind-choose-your-fate) | rEFInd boot theme: your OSes as the red and blue pill | Python · rEFInd |
+| | [Quiet Tab for Linux](https://github.com/SammyNashed/quiet-tab-linux) | Minimal New Tab page that follows your wallpaper and matugen colours | JavaScript |
+| | [WhatsApp Matugen Theme](https://github.com/SammyNashed/whatsapp-matugen-theme) | Themes WhatsApp Web from your wallpaper palette | JavaScript · Extension |
+| | **Windows & browsers** | | |
+| | [Quiet Tab for Windows](https://github.com/SammyNashed/quiet-tab-windows) | The same quiet New Tab page, with Lively wallpaper support | JavaScript |
+| | [Zen PWA Automator](https://github.com/SammyNashed/zen-pwa-automator) | Adds native PWA support to Zen Browser | PowerShell |
+| | **Games & stories** | | |
+| 📌 | [Paradox](https://github.com/SammyNashed/paradox) | Minecraft mod: sixty seconds as a spirit to undo your death | Java · Fabric |
+| | [Chess 2.0](https://github.com/SammyNashed/chess-2) &nbsp;[▶](https://sammynashed.github.io/chess-2/) | Four-player online chess in one HTML file, with bots and invite links | HTML · JavaScript |
+| | [YET. Stories](https://github.com/SammyNashed/yet-stories) &nbsp;[▶](https://sammynashed.github.io/yet-stories/) | The real research behind my *YET.* Instagram series | HTML |
+| | **Forks** | | |
+| | [awesome-hyprland](https://github.com/SammyNashed/awesome-hyprland) · [theme-store](https://github.com/SammyNashed/theme-store) | Upstream projects I have forked | |
+
+<sub><a href="https://github.com/SammyNashed?tab=repositories">Browse all repositories on GitHub →</a></sub>
 
 <br>
 
