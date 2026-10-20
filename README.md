@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/sammy-ascii.svg" width="300" alt="ASCII rendering of Sammy's nebula S emblem">
+<img src="https://www.gitskins.com/api/section/hero?username=SammyNashed&theme=dracula&style=aura" width="860" alt="Sammy, @sammynashed: I look for the tool, fail to find it, build it instead.">
 
-### Sammy Nashed
+<br>
 
 Software developer in Aleppo, Syria.<br>
 I build things that work offline, keep your data on your device, and actually ship.
@@ -12,6 +12,10 @@ I build things that work offline, keep your data on your device, and actually sh
 
 <br>
 <img src="assets/divider.svg" width="600" alt="">
+<br><br>
+
+<img src="https://www.gitskins.com/api/section/projects?username=SammyNashed&theme=dracula&style=aura" width="860" alt="Featured projects: Emran, paradox, refind-choose-your-fate, rota">
+
 <br><br>
 
 <img src="assets/label-pinned.svg" height="22" alt="Pinned">
