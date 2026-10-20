@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sammy-nashed"><img src="assets/cards/hero.svg" width="820" alt="Sammy Nashed, @sammynashed"></a>
+<a href="https://www.linkedin.com/in/sammy-nashed"><img src="assets/cards/hero.svg" width="820" alt="sammy@nashed: software developer in Aleppo, Syria"></a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/sammy-nashed"><img src="assets/cards/link-linkedin.svg" height="44" alt="LinkedIn"></a> &nbsp; <a href="mailto:nashedsammy@gmail.com"><img src="assets/cards/link-email.svg" height="44" alt="Email"></a> &nbsp; <a href="https://github.com/SammyNashed?tab=repositories"><img src="assets/cards/link-repos.svg" height="44" alt="All repositories"></a>
+<a href="https://www.linkedin.com/in/sammy-nashed"><img src="assets/cards/link-linkedin.svg" height="40" alt="linkedin"></a> &nbsp; <a href="mailto:nashedsammy@gmail.com"><img src="assets/cards/link-email.svg" height="40" alt="email"></a> &nbsp; <a href="https://github.com/SammyNashed?tab=repositories"><img src="assets/cards/link-repos.svg" height="40" alt="all-repos"></a>
 
 <br><br>
 
-<img src="assets/cards/label-pinned.svg" height="40" alt="Pinned">
+<img src="assets/cards/label-pinned.svg" height="38" alt="pinned">
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br><br>
 
-<img src="assets/cards/label-more.svg" height="40" alt="More">
+<img src="assets/cards/label-more.svg" height="38" alt="more">
 
 <br>
 
